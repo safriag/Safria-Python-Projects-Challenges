@@ -1,1 +1,1 @@
-# Safria-Python-Projects-Challenges
+# Safria-Python-Projects-and-Challenges
